@@ -1,0 +1,18 @@
+# Входные данные
+data/transactions.csv
+data/categories.json
+data/gold_set.csv
+data/transactions_clean.csv
+data/gold_set_results.csv
+*.db
+*.sqlite
+src/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+notebooks/*.png
