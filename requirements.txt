@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas 
 numpy 
 matplotlib 
@@ -5,3 +6,12 @@ seaborn
 scikit-learn 
 jupyter 
 notebook 
+=======
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+seaborn==0.13.2
+scikit-learn==1.5.0
+jupyter==1.0.0
+ipykernel==6.29.4
+>>>>>>> 2fcb3f4ed60b1046048eb371a0a45b28464b08b1
